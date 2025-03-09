@@ -42,7 +42,6 @@ playsound==1.2.2
 prompt-toolkit==3.0.38
 psutil==5.9.4
 pure-eval==0.2.2
-PyAudio==0.2.14
 pyexcel==0.7.1
 pyexcel-io==0.6.7
 pyexcel-webio==0.1.4
